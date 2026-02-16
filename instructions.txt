@@ -1,1 +1,96 @@
-company name: Blink by Emtel
+Company name: Blink by Emtel
+
+Note: To be submitted by latest 15th of March 2026.
+
+
+🔵 Oman – How Blink Operates (Business Model & Technology) (≈550–600 words)
+🟢 Ashfar – Industry Context + Intro + Conclusion (Mauritius FinTech Landscape) (≈500–600 words)
+🟡 Yohaan – Regulatory Environment & Framework (≈550–600 words)
+🟠 Farhaan – Value Creation (Customers & Society) (≈500–600 words)
+🔴 Ayush – Critical Evaluation + Improvements + Risks (≈600–700 words)
+
+
+🔵 Oman – How Blink Operates (Business Model & Technology) (≈550–600 words)
+
+You handle the core mechanics:
+	•	What Blink is (mobile wallet / digital payment platform)
+	•	How users register (KYC process)
+	•	How money is stored (e-wallet structure)
+	•	Revenue model (transaction fees, merchant fees, partnerships)
+	•	Technology used (mobile app, telecom infrastructure, APIs)
+	•	Security features (OTP, encryption, authentication)
+	•	Risk management mechanisms
+
+⚠ Focus on analysis, not just description:
+	•	Is the model scalable?
+	•	Is it dependent on Emtel telecom customers?
+	•	What are operational risks?
+
+⸻
+
+🟢 Ashfar – Industry Context (Mauritius FinTech Landscape) (≈500–600 words)
+
+Focus on:
+	•	Growth of digital payments in Mauritius
+	•	Competitors (Juice by MCB, my.t money, bank apps)
+	•	Telecom vs bank-led FinTech
+	•	Financial inclusion trends
+	•	Cashless economy initiatives
+	•	Market challenges (small population, digital literacy, trust)
+
+⚠ Compare Blink strategically to competitors.
+
+⸻
+
+🟡 Yohaan – Regulatory Environment & Framework (≈550–600 words)
+
+Focus on:
+	•	Role of Bank of Mauritius
+	•	Payment Systems Act
+	•	Licensing requirements for mobile money operators
+	•	AML/CFT compliance
+	•	Data Protection Act (Mauritius)
+	•	Consumer protection issues
+
+⚠ Critically assess:
+	•	Does regulation encourage innovation?
+	•	Are compliance costs high?
+	•	Is regulation strict enough?
+
+⸻
+
+🟠 Farhaan – Value Creation (Customers & Society) (≈500–600 words)
+
+Focus on:
+
+For customers:
+	•	Convenience
+	•	Speed
+	•	Lower transaction costs
+	•	Accessibility (unbanked population)
+
+For society:
+	•	Financial inclusion
+	•	SME support
+	•	Digital economy growth
+	•	Reduced cash handling
+
+⚠ Be balanced — mention limitations too.
+
+⸻
+
+🔴 Ayush – Critical Evaluation + Improvements + Risks (≈600–700 words)
+
+This is the strongest analytical section.
+
+Cover:
+	•	Strengths (telecom backing, brand recognition, accessibility)
+	•	Weaknesses (market size, competition, reliance on Emtel network)
+	•	Risks (cybersecurity, fraud, regulatory tightening)
+	•	Profitability challenges
+	•	Recommendations:
+	•	Partnerships with banks
+	•	Cross-border payments
+	•	Merchant expansion
+	•	AI fraud detection
+	•	Loyalty incentives
