@@ -3,8 +3,8 @@ Company name: Blink by Emtel
 Note: To be submitted by latest 15th of March 2026.
 
 
-🔵 Oman – How Blink Operates (Business Model & Technology) (≈550–600 words)
-🟢 Ashfar – Industry Context + Intro + Conclusion (Mauritius FinTech Landscape) (≈500–600 words)
+🔵 Oman – How Blink Operates + intro (Business Model & Technology) (≈550–600 words)
+🟢 Ashfar – Industry Context + Conclusion (Mauritius FinTech Landscape) (≈500–600 words)
 🟡 Yohaan – Regulatory Environment & Framework (≈550–600 words)
 🟠 Farhaan – Value Creation (Customers & Society) (≈500–600 words)
 🔴 Ayush – Critical Evaluation + Improvements + Risks (≈600–700 words)
@@ -26,6 +26,8 @@ You handle the core mechanics:
 	•	Is it dependent on Emtel telecom customers?
 	•	What are operational risks?
 
+-Introduction
+
 ⸻
 
 🟢 Ashfar – Industry Context (Mauritius FinTech Landscape) (≈500–600 words)
@@ -37,6 +39,8 @@ Focus on:
 	•	Financial inclusion trends
 	•	Cashless economy initiatives
 	•	Market challenges (small population, digital literacy, trust)
+
+-conlusion
 
 ⚠ Compare Blink strategically to competitors.
 
