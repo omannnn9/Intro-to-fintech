@@ -1,3 +1,3 @@
 How Blink Operates? Business model & Technology
 
-Intro: 
+Intro: The Financial Technology (fintech) industry has taken the global economy by storm in the recent years. Mobile financial apps and online payments are becoming more relevant compared to traditional cash transactions. In Mauritius, the development of fintech products has recently surged, with the introduction of the MAUCAS QR and IPS switch by the Bank of Mauritius, it enabled companies to develop instant payment technologies. Emtel, a Mauritian telecommunications and network company has also decided to join the Fintech Market in May 2022, when it launched its app named Blink. Blink enables citizens to seamlessly do interbank transfers, MAUCAS QR payments, pay merchants, pay bills, do peer to peer transfers all within the same app. Although Blink was not the first of its kind in the island, it did bring some innovations with it such as the dynamic qr code and cross-platform interoperability.
