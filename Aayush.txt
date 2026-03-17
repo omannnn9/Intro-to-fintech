@@ -1,4 +1,4 @@
-Evalution (last paragraph):
+Evaluation (last paragraph):
 
 Critically speaking, Blink by Emtel shows both the opportunities and the constraints of developing FinTech in a modest but technologically progressive nation like Mauritius. As previously mentioned above, the connection of Blink with the Bank of Mauritius’ IPS switch and MauCAS QR system, allows immediate transfers between linked banks accounts without holding money inside the app. This therefore reduces the platform’s financial risk since users’ funds are kept in regulated banks. However, this is likely to make the service highly dependent on the stability of the national payment infrastructure.  Any server error or network going down can lead to delayed transactions which will temporarily lower the usefulness of the app for any stakeholders concerned. While this system does improve the efficiency and interoperability within Mauritian banking network, the dependency on third-party infrastructure can increase the risks of issues that are beyond Emtel’s control. 
 
