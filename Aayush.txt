@@ -1,17 +1,34 @@
 Evalution (last paragraph):
 
-
-
 Critically speaking, Blink by Emtel shows both the opportunities and the constraints of developing FinTech in a modest but technologically progressive nation like Mauritius. As previously mentioned above, the connection of Blink with the Bank of Mauritius’ IPS switch and MauCAS QR system, allows immediate transfers between linked banks accounts without holding money inside the app. This therefore reduces the platform’s financial risk since users’ funds are kept in regulated banks. However, this is likely to make the service highly dependent on the stability of the national payment infrastructure.  Any server error or network going down can lead to delayed transactions which will temporarily lower the usefulness of the app for any stakeholders concerned. While this system does improve the efficiency and interoperability within Mauritian banking network, the dependency on third-party infrastructure can increase the risks of issues that are beyond Emtel’s control. 
-
 
 The regulatory environment surrounding Blink also illustrates how innovation and expenses are balanced within the framework it operates. By complying with the FATF’s international norms, Mauritius requires FinTech payment companies to enforce strict AML/CFT protocols, including KYC checks and thorough customer due diligence procedures. These regulatory measures therefore increases the credibility of Mauritius’ financial system worldwidely while also contribute in lowering the risks of financial crimes. However, these obligations add on to extra operational expenses for companies like Emtel, which now have to invest in compliance software, surveillance mechanisms, and employee training to meet the rules. Similarly, the Data Protection Act 2017 imposes an equivalent trade-off, compelling Blink to safeguard user data and obtain consent prior to any data processing, and report any breaching to the authorities. These measures therefore increase consumer trust and confidence in digital payment platforms, given the fact that these mobile payment applications routinely process highly sensitive personal and monetary information.
 
-
 Furthermore, Blink also creates value for both customers and the society as a whole, but its long term success depends on increasing the number of transactions and expanding the ecosystem. In addition, the platform makes managing money easier and more convenient for users by providing services such as instant QR payments, tracking of their finances and relying less on cash. These good results show how FinTech innovations can help make economies more efficient and include more people in the financial system. Moreover, in societal terms, the platform supports SMEs by allowing them to process digital payments without any costly point-on-sale devices or hardware, thereby diminishing the barriers to entering digital commerce. However, profitabilty may not be as consistently scaling up but rather challenging, primarily because of the modest population of Mauritius which is likely to have a low level of transaction volumes. For instance, as previously mentioned, expanding merchant partnerships and establishing e-commerce gateway, strategic ecosystem integration can boost transaction activities which can further not only generate increased revenue but may also potentially open up new revenue streams. Yet, despite this possibility, undertaking such expansions is very likely to be demanding in terms of early-stage investment and technical development before yielding some concrete financial gains. Nevertheless, if executed effectively, the long-term benefits could outweigh the initial costs and justify the investment.
-
 
 Security concerns further highlight the multifaceted risk landscape that FinTech platforms are operating within. To protect users, Blink has introduced safeguards such as data encryption, authentication systems, and identity verification steps during a registration framework. Such security measures are consistent with standard cybersecurity protocols designed to defend financial systems from digital attacks. However, implementing these controls does not fully guarantee elimination of threats. The digital payment ecosystems still be vulnerable to phishing attacks, social engineering, SIM-swap fraud, amongst other cyber threats that provoke human behaviour rather than technical flaws. As a result, the effectiveness of security measures is not only influenced by the technological solutions but also the digital literacy and self awareness of users. Therefore the implication is that informing and educating consumers by conducting campaigns can be considered as equally vital as technological spending when it is a question for the safe use of FinTech services.
 
-
 To sum up, Blink is playing an impactive role in progressing Mauritius’ revolution towards a cashless economy. But still, the success for the long run will require working on a sustainable solution to integrated cybersecurity risks, having strong regulatory compliance in place and ensuring reliable merchant adoption that will increase revenue while lowering the inclusive costs. 
+
+
+
+References:
+
+1. Regulation and Policy
+  *Bank of Mauritius (2023) – National Payment Systems Oversight Framework
+  *Government of Mauritius (2018) – National Payment Systems Act 2018
+  *Government of Mauritius (2017) – Data Protection Act
+  *FATF (2021) – Anti-Money Laundering and Counter-Terrorist Financing Measures – Mauritius
+
+2. Industry / Security Context
+  *World Economic Forum (2022) – Cybersecurity in Financial Services
+  *World Bank (2022) – The Global Findex Database: Financial Inclusion, Digital Payments and Resilience
+
+3. Company/product information
+  *Emtel (2024): Blink Mobile Money Servives
+  *Emtel (2022): Launch of Blink Mobile Payment Application
+
+4. Lecture Notes
+  *Introduction to FinTech (L1&2) – definitions of FinTech and digital financial innovation. 
+  *Cybersecurity and digital payment security mechanisms in FinTech systems. (L5)
+
