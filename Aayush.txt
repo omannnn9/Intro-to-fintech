@@ -15,20 +15,22 @@ To sum up, Blink is playing an impactive role in progressing Mauritius’ revolu
 References:
 
 1. Regulation and Policy
-  *Bank of Mauritius (2023) – National Payment Systems Oversight Framework
-  *Government of Mauritius (2018) – National Payment Systems Act 2018
-  *Government of Mauritius (2017) – Data Protection Act
-  *FATF (2021) – Anti-Money Laundering and Counter-Terrorist Financing Measures – Mauritius
+  •Bank of Mauritius (2023) – National Payment Systems Oversight Framework
+  •Government of Mauritius (2018) – National Payment Systems Act 2018
+  •Government of Mauritius (2017) – Data Protection Act
+  •FATF (2021) – Anti-Money Laundering and Counter-Terrorist Financing Measures – Mauritius
 
 2. Industry / Security Context
-  *World Economic Forum (2022) – Cybersecurity in Financial Services
-  *World Bank (2022) – The Global Findex Database: Financial Inclusion, Digital Payments and Resilience
+  •World Economic Forum (2022) – Cybersecurity in Financial Services
+  •World Bank (2022) – The Global Findex Database: Financial Inclusion, Digital Payments and Resilience
 
 3. Company/product information
-  *Emtel (2024): Blink Mobile Money Servives
-  *Emtel (2022): Launch of Blink Mobile Payment Application
+  •Emtel (2024): Blink Mobile Money Servives
+  •Emtel (2022): Launch of Blink Mobile Payment Application
 
 4. Lecture Notes
-  *Introduction to FinTech (L1&2) – definitions of FinTech and digital financial innovation. 
-  *Cybersecurity and digital payment security mechanisms in FinTech systems. (L5)
+  •Introduction to FinTech (L1&2) – definitions of FinTech and digital financial innovation. 
+  •Cybersecurity and digital payment security mechanisms in FinTech systems. (L5)
 
+
+[723 Words]
